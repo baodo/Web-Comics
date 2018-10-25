@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsachnhomsanpham>
+	<nhomsanpham>
+		<ma>01</ma>
+		<ten>Nhóm sản phẩm a</ten>
+		<trangthai>1</trangthai>
+	</nhomsanpham>
+	<nhomsanpham>
+		<ma>02</ma>
+		<ten>Nhóm sản phẩm b</ten>
+		<trangthai>0</trangthai>
+	</nhomsanpham>
+	<nhomsanpham>
+		<ma>03</ma>
+		<ten>Nhóm sản phẩm c</ten>
+		<trangthai>1</trangthai>
+	</nhomsanpham>
+</danhsachnhomsanpham>

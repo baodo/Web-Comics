@@ -1,0 +1,1 @@
+<img src="http://localhost:81/php/websql/css/images/404.jpg" />

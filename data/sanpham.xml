@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsachsanpham>
+  <sanpham>
+    <ma>01</ma>
+    <ten>Sản phẩm a</ten>
+    <gia>100000</gia>
+    <soluong>123</soluong>
+    <trangthai>1</trangthai>
+    <hinh>http://localhost:81/php/web/uploads/hinhsp/noimage.png</hinh>
+    <mota>abcd</mota>
+    <manhonsanpham>02</manhonsanpham>
+  </sanpham>
+  <sanpham>
+    <ma>02</ma>
+    <ten>Sản phẩm b</ten>
+    <gia>150000</gia>
+    <soluong>453</soluong>
+    <trangthai>0</trangthai>
+    <hinh>http://localhost:81/php/web/uploads/hinhsp/noimage.png</hinh>
+    <mota>efgh</mota>
+    <manhonsanpham>01</manhonsanpham>
+  </sanpham>
+  <sanpham>
+    <ma>03</ma>
+    <ten>Sản phẩm c</ten>
+    <gia>200000</gia>
+    <soluong>500</soluong>
+    <trangthai>0</trangthai>
+    <hinh>http://localhost:81/php/web/uploads/hinhsp/noimage.png</hinh>
+    <mota>iklmn</mota>
+    <manhonsanpham>03</manhonsanpham>
+  </sanpham>
+  <sanpham>
+    <ma>sp001</ma>
+    <ten>Bút chì B2</ten>
+    <gia>5000</gia>
+    <soluong>10</soluong>
+    <mota>Bút dùng trong mỹ thuật, hội họa</mota>
+    <trangthai>1</trangthai>
+    <hinh>http://localhost:81/php/web/uploads/hinhsp/file_1530367100.jpg</hinh>
+  </sanpham>
+</danhsachsanpham>

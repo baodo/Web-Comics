@@ -1,0 +1,11 @@
+ReWriteEngine On
+ReWriteRule "trang-chu.html" "index.php?pages=home"
+ReWriteRule "^([0-9]+)/([a-zA-Z0-9-_]+).html$" "index.php?page=overviewstory&ma=$1"
+ReWriteRule "^([a-zA-Z0-9-_]+)/([0-9]+).html$" "index.php?page=category&maloai=$2"
+ReWriteRule "^([0-9]+)/([0-9]+)/([a-zA-Z0-9-_]+).html$" "index.php?page=readchap&matruyen=$1&machuong=$2"
+ReWriteRule "^doi-mat-khau.html$" "index.php?page=changepassword&ma=$2"
+ReWriteRule "^sua-thong-tin.html$" "index.php?page=editinfo&ma=$2"
+ReWriteRule "^thong-tin.html$" "index.php?page=infouser&ma=$2"
+ReWriteRule "^logout.html$" "index.php?page=thoat"
+ReWriteRule "^dang-ky.html$" "index.php?page=signup"
+ReWriteRule "^quen-mat-khau.html$" "index.php?page=recoverypass"

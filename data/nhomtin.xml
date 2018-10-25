@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsachnhomtin>
+	<nhomtin>
+		<ma>01</ma>
+		<ten>Nhóm tin A</ten>
+		<trangthai>1</trangthai>
+	</nhomtin>
+	<nhomtin>
+		<ma>02</ma>
+		<ten>Nhóm tin B</ten>
+		<trangthai>1</trangthai>
+	</nhomtin>
+	<nhomtin>
+		<ma>03</ma>
+		<ten>Nhóm tin C</ten>
+		<trangthai>0</trangthai>
+	</nhomtin>
+</danhsachnhomtin>

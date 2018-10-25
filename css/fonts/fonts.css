@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'gillsansmt';
+	src: url('33535gillsansmt.eot');
+	src: local('33535gillsansmt'), url('33535gillsansmt.woff') format('woff'), url('33535gillsansmt.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Arial';
+	src: url('Arial.eot');
+	src: local('Arial'), url('Arial.woff') format('woff'), url('Arial.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'OpenSans';
+	src: url('OpenSans-Light.ttf') format('truetype');
+}

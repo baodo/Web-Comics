@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsachnguoidung>
+  
+  
+  <nguoidung>
+    <ma>06</ma>
+    <ten>Trần Văn F</ten>
+    <tendangnhap>tranf</tendangnhap>
+	<matkhau>123456</matkhau>
+    <email>tranf@gmail.com</email>
+    <trangthai>0</trangthai>
+    <avatar>http://localhost:81/php/web/uploads/avatar/file_1529759180.jpg</avatar>
+  </nguoidung>
+  <nguoidung>
+    <ma>07</ma>
+    <ten>Trương Văn G</ten>
+    <tendangnhap>truongg</tendangnhap>
+	<matkhau>123456</matkhau>
+    <email>truongg@gmail.com</email>
+    <trangthai>1</trangthai>
+    <avatar>http://localhost:81/php/web/uploads/avatar/file_1529759404.jpg</avatar>
+  </nguoidung>
+  
+</danhsachnguoidung>

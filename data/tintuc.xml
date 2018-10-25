@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<danhsachtintuc>
+	<tintuc>
+		<ma>01</ma>
+		<ten>Tin tức A</ten>
+		<noidung>
+				Summer after high school when we first met
+				We make out in your Mustang to Radiohead
+				And on my 18th birthday
+				We got matching tattoos
+				Used to steal your parents’ liquor
+				And climb to the roof
+				Talk about our future
+				Like we had a clue
+				Never planned on one day
+				I’d be losing you
+				
+				
+		</noidung>
+		<hinh>http://localhost:81/php/web/uploads/hinhtintuc/noimage.png</hinh>
+		<trangthai>1</trangthai>
+		<manhomtin>02</manhomtin>
+	</tintuc>
+	<tintuc>
+		<ma>02</ma>
+		<ten>Tin tức B</ten>
+		<noidung>
+				In another life
+				I would be your girl
+				We’d keep all our promises
+				Be us against the world
+				In another life
+				I would make you stay
+				So I don’t have to say
+				You were the one that got away
+				The one that got away
+				
+		</noidung>
+		<hinh>http://localhost:81/php/web/uploads/hinhtintuc/noimage.png</hinh>
+		<trangthai>0</trangthai>
+		<manhomtin>03</manhomtin>
+	</tintuc>
+	<tintuc>
+		<ma>03</ma>
+		<ten>Tin tức C</ten>
+		<noidung>
+				All this money can’t buy me a time machine, no
+				Can’t replace you with a million rings, no
+				I should have you told you what you meant to me, whoa
+				‘Cause now I pay the price
+		</noidung>
+		<hinh>http://localhost:81/php/web/uploads/hinhtintuc/noimage.png</hinh>
+		<trangthai>1</trangthai>
+		<manhomtin>01</manhomtin>
+	</tintuc>
+</danhsachtintuc>
